@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MFA Practice</string>
+    <string name="haven_t_received_the_code_resend_code"><![CDATA[
+    <font color="#000000">Hello</font>
+    ]]></string>
+    <string name="demoStr"><Data><![CDATA[ <b>ABC</b> ]]> </Data></string>
+    <string name="authentication_completed_successfully">Authentication completed successfully</string>
+    <string name="phone_number">Phone number</string>
+    <string name="password">Password</string>
+    <string name="username_or_email">Username or email</string>
+    <string name="welcome_back">Welcome back!</string>
+    <string name="log_in">Log in</string>
+    <string name="just_one_more_step">Just one more step!</string>
+    <string name="in_order_to_protect_your_account_we_have_sent_you_a_one_time_password_please_enter_the_code_to_proceed">In order to protect your account we have sent you a one time password, please enter the code to proceed</string>
+</resources>

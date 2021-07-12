@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "689980480452",
+    "project_id": "mfa-practice",
+    "storage_bucket": "mfa-practice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689980480452:android:3ee46b09ff50a757cea291",
+        "android_client_info": {
+          "package_name": "com.example.mfapractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689980480452-ebeq3psq251thv8boskfkvvdfro3vkva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3XZOfPDrLUlaqPm4LZy2YMAyh7iwwc58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689980480452-ebeq3psq251thv8boskfkvvdfro3vkva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
